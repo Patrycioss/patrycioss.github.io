@@ -28,6 +28,8 @@ header {
   align-content: center;
 }
 
+
+
 header .logo {
   font-size: 25px;
   color: #ededed;
@@ -179,4 +181,14 @@ body .content .card {
 
 
   }
+}
+
+p.warning {
+  color: yellow;
+  font-style: italic;
+}
+
+p.info {
+  color: cyan;
+  font-style: normal;
 }
