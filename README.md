@@ -2,7 +2,7 @@
 
 This section explains how to maintain the package.
 
-1. We use the following packages to keep keep the imports clean.
+1. We use the following packages to keep the imports clean.
 
 - [import_sorter](https://pub.dev/packages/import_sorter)
 
